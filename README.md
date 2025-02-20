@@ -3,6 +3,7 @@
 # Archive password:  2024
 
 Key Features of CapCut Pro:
+
 AI-Powered Editing Tools
 
 Scene Detection: The app uses AI to analyze and detect key scenes in your videos, making it easier to edit and add transitions.
