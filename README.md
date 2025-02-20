@@ -5,7 +5,6 @@
 Key Features of CapCut Pro:
 
 AI-Powered Editing Tools
-
 Scene Detection: The app uses AI to analyze and detect key scenes in your videos, making it easier to edit and add transitions.
 Auto Color Correction: Automatically adjusts colors and tones to ensure your video looks visually appealing, even in challenging lighting conditions.
 Auto Subtitling and Sync: CapCut Pro 2025 includes a more accurate AI for generating and syncing subtitles in real-time, which saves time for creators.
